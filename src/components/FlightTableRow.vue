@@ -6,7 +6,7 @@
           <td>{{ flight.plane }}</td>
           <td>{{ new Date(flight.scheduledAt).toLocaleString('sr-RS') }}</td>
           <td>
-            <button type="button" class="btn btn-outline-primary" @click="(e)=>showDetails(flight.id)">Detalji</button>
+            <button type="button" class="btn btn-outline-primary btn-sm" @click="(e)=>showDetails(flight.id)">Detalji</button>
           </td>
         </tr>
 </template>

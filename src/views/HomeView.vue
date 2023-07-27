@@ -43,9 +43,9 @@
 
 <script setup>
 import FlightTableRow from '@/components/FlightTableRow.vue';
-import FlightService from '@/services/flight.service'
-import { ref } from 'vue';
 import LoadingWidget from '@/components/LoadingWidget.vue';
+import FlightService from '@/services/flight.service';
+import { ref } from 'vue';
 
 const flights = ref();
 

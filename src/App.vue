@@ -15,6 +15,9 @@
         <li class="nav-item">
           <router-link class="nav-link" to="/about">About</router-link>
         </li>
+        <li class="nav-item">
+          <a href="https://github.com/Pequla/primer-vue" class="nav-link" target="_blank">GitHub</a>
+        </li>
       </ul>
     </div>
   </div>

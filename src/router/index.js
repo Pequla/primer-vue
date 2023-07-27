@@ -38,7 +38,7 @@ const router = createRouter({
 
 router.beforeEach((to, from, next) => {
   if (to.meta.title)
-      document.title = `${to.meta.title} :: Applikacija`;
+      document.title = `${to.meta.title} :: AirSerbia`;
   next();
 })
 

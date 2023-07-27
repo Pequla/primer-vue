@@ -11,6 +11,7 @@
       <li><a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootstrap 5 dokumentacija</a></li>
       <li><a href="https://github.com/Pequla/flight-cache#endpoints">Lista putanja bekenda za letove</a></li>
       <li><a href="https://img.pequla.com/destination/">Repozitorijum slika</a></li>
+      <li><a href="https://github.com/Pequla/primer-vue">Izvorni kod aplikacije</a></li>
     </ul>
   </div>
 </template>
