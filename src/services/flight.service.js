@@ -13,5 +13,11 @@ export default {
     },
     getFlightById(id) {
         return client.get('/flight/' + id)
+    },
+    getAllFlightsForDestination(dest) {
+        return client.get('/flight/destination/' + dest)
+    },
+    autocompleteDestinations(dest) {
+        return client.get('/flight/destination/search/' + dest)
     }
 }

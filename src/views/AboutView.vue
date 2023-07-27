@@ -7,11 +7,11 @@
     <br>
     <h3>Korisni linkovi</h3>
     <ul>
-      <li><a href="https://vuejs.org/guide/introduction.html">Vue 3 dokumentacija</a></li>
-      <li><a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootstrap 5 dokumentacija</a></li>
-      <li><a href="https://github.com/Pequla/flight-cache#endpoints">Lista putanja bekenda za letove</a></li>
-      <li><a href="https://img.pequla.com/destination/">Repozitorijum slika</a></li>
-      <li><a href="https://github.com/Pequla/primer-vue">Izvorni kod aplikacije</a></li>
+      <li><a href="https://vuejs.org/guide/introduction.html" target="_blank">Vue 3 dokumentacija</a></li>
+      <li><a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">Bootstrap 5 dokumentacija</a></li>
+      <li><a href="https://github.com/Pequla/flight-cache#endpoints" target="_blank">Lista putanja bekenda za letove</a></li>
+      <li><a href="https://img.pequla.com/destination/" target="_blank">Repozitorijum slika</a></li>
+      <li><a href="https://github.com/Pequla/primer-vue" target="_blank">Izvorni kod aplikacije</a></li>
     </ul>
   </div>
 </template>
